@@ -21,7 +21,7 @@ tech_final = int(tech1) + int(tech2)
 outdoor_final = int(outdoor1) + int(outdoor2)
 music_final = int(music1)+ int(music2)
 
-print()
+print("Here's your final result!")
 
 if tech_final > outdoor_final and tech_final > music_final:
   print("You might be suitable for Uniform Group!")
